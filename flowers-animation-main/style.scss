@@ -205,7 +205,7 @@ body {
     width: 9vmin;
     height: 4vmin;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #fa6bc3;
 
     &::after {
       content: "";
@@ -218,7 +218,7 @@ body {
       border-radius: inherit;
       background-image: repeating-linear-gradient(
           300deg,
-          rgba(0, 0, 0, 0.03) 0px,
+          rgba(238, 218, 218, 0.03) 0px,
           rgba(0, 0, 0, 0.03) 1px,
           transparent 1px,
           transparent 12px
